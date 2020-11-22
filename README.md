@@ -1,5 +1,4 @@
-This a python program that **generates** more than 100 payload! This is for educational purposes! 
-
+This a python program that **generates** more than 100 payload! This is for educational purposes! The author does not carry any responsibility for the bad usage of this tool and so remember that attacking targets without prior **permission** is **criminal** and **punished** by law.
 
         host = input('FREESITE: ')
 

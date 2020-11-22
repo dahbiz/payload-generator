@@ -1,6 +1,4 @@
-This a python program that **generates** more than 100 payload!
-
-This is for educational purposes! 
+This a python program that **generates** more than 100 payload! This is for educational purposes! 
 
 
         host = input('FREESITE: ')
